@@ -1,1 +1,3 @@
-# Kontaktni_formular-Html-Css-Js-PHP
+Responzivní kontaktní formulář
+
+Použito Html, css, javascript a php odesílací formulář
